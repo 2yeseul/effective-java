@@ -7,3 +7,5 @@
 [3장. private 생성자나 열거 타입으로 싱글턴임을 보증하라](https://github.com/2yeseul/effective-java/blob/master/docs/3.md)
 
 [4장. 인스턴스화를 막으려거든 private 생성자를 사용하라](https://github.com/2yeseul/effective-java/blob/master/docs/4.md)
+
+[6장. 불필요한 객체 생성을 피하라](https://github.com/2yeseul/effective-java/blob/master/docs/6.md)
